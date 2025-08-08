@@ -1,1 +1,1 @@
-# Sample-project
+# LuxeVistaApp Mobile Application
